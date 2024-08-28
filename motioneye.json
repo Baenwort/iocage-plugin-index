@@ -1,7 +1,7 @@
 {
     "name": "motioneye",
     "plugin_schema": "2",
-    "release": "13.1-RELEASE",
+    "release": "13.3-RELEASE",
     "artifact": "https://github.com/Baenwort/iocage-plugin-motioneye.git",
     "official": false,
     "properties": {
@@ -12,7 +12,7 @@
         "bash",
         "curl",
         "python3",
-        "python39",
+        "python311",
         "gcc",
         "motion",
         "ffmpeg",
